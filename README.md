@@ -10,6 +10,7 @@ Within each folder, the HTML file is the description of the problem, the .py fil
 
 
 course outlook (each problem set is accordination with each course) <br />
+
 0. Functions, Variables
 1. Conditionals
 2. Loops
