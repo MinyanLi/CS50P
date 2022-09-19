@@ -1,3 +1,3 @@
-The HTML file is the problem discrition.
+The HTML file is the problem discription.
 
 The py file is my solution.
