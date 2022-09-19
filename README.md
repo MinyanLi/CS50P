@@ -9,7 +9,8 @@ Within each folder, the HTML file is the description of the problem, the .py fil
 (P.S. Please follow the honor code.)
 
 
-course outlook (each problem set is accordination with each course) \n
+course outlook (each problem set is accordination with each course) 
+<\l>
 0. Functions, Variables
 1. Conditionals
 2. Loops
