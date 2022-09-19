@@ -1,4 +1,4 @@
-# Minyan's CS50P homework
+# Minyan's CS50P(2022) homework
 
 I am rescently taking [CS50P](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home) (CS50's Introduction to Programming with Python), which is a course from HarvardX.
 
