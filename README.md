@@ -4,6 +4,8 @@ I am rescently taking [CS50P](https://learning.edx.org/course/course-v1:HarvardX
 
 I would like to share the solution of the problem sets I have done. They are not the best solutions. If you have better solutions, you are more than welcome to share with me.
 
+Within each folder, the HTML file is the description of the problem, the .py file is my solution.
+
 (P.S. Please follow the honor code.)
 
 
