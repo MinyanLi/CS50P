@@ -5,3 +5,16 @@ I am rescently taking [CS50P](https://learning.edx.org/course/course-v1:HarvardX
 I would like to share the solution of the problem sets I have done. They are not the best solutions. If you have better solutions, you are more than welcome to share with me.
 
 (P.S. Please follow the honor code.)
+
+
+course outlook (each problem set is accordination with each course)
+0. Functions, Variables
+1. Conditionals
+2. Loops
+3. Exceptions
+4. Libraries
+5. Unit Tests
+6. File I/O
+7. Regular Expressions
+8. Object-Oriented Programming
+9. Et Cetera
