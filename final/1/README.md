@@ -4,7 +4,7 @@
 ##### Scenario:
 A fruit shop is having a promotion.
 If total price over $50, the customer is entitled to paticipate in a lottery to get 0-50% discount for the bill.
-
+---
 ##### Code structure:
 Contains 3 functions other than main.
 - print_list() is to print out the price list so that the customer can choose what they want.
