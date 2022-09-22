@@ -1,0 +1,3 @@
+
+pip install tabulate
+pip install Counter
